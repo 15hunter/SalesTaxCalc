@@ -1,0 +1,10 @@
+C:\Users\Hunter\OneDrive\Documents\Visual Studio 2017\Smith_SalesTaxCalc_Solution\Smith_SalesTaxCalc_Project\bin\Debug\Smith_SalesTaxCalc_Project.exe.config
+C:\Users\Hunter\OneDrive\Documents\Visual Studio 2017\Smith_SalesTaxCalc_Solution\Smith_SalesTaxCalc_Project\bin\Debug\Smith_SalesTaxCalc_Project.exe
+C:\Users\Hunter\OneDrive\Documents\Visual Studio 2017\Smith_SalesTaxCalc_Solution\Smith_SalesTaxCalc_Project\bin\Debug\Smith_SalesTaxCalc_Project.pdb
+C:\Users\Hunter\OneDrive\Documents\Visual Studio 2017\Smith_SalesTaxCalc_Solution\Smith_SalesTaxCalc_Project\obj\Debug\Smith_SalesTaxCalc_Project.csproj.AssemblyReference.cache
+C:\Users\Hunter\OneDrive\Documents\Visual Studio 2017\Smith_SalesTaxCalc_Solution\Smith_SalesTaxCalc_Project\obj\Debug\Smith_SalesTaxCalc_Project.BillyForm.resources
+C:\Users\Hunter\OneDrive\Documents\Visual Studio 2017\Smith_SalesTaxCalc_Solution\Smith_SalesTaxCalc_Project\obj\Debug\Smith_SalesTaxCalc_Project.Properties.Resources.resources
+C:\Users\Hunter\OneDrive\Documents\Visual Studio 2017\Smith_SalesTaxCalc_Solution\Smith_SalesTaxCalc_Project\obj\Debug\Smith_SalesTaxCalc_Project.csproj.GenerateResource.cache
+C:\Users\Hunter\OneDrive\Documents\Visual Studio 2017\Smith_SalesTaxCalc_Solution\Smith_SalesTaxCalc_Project\obj\Debug\Smith_SalesTaxCalc_Project.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\OneDrive\Documents\Visual Studio 2017\Smith_SalesTaxCalc_Solution\Smith_SalesTaxCalc_Project\obj\Debug\Smith_SalesTaxCalc_Project.exe
+C:\Users\Hunter\OneDrive\Documents\Visual Studio 2017\Smith_SalesTaxCalc_Solution\Smith_SalesTaxCalc_Project\obj\Debug\Smith_SalesTaxCalc_Project.pdb
